@@ -12,6 +12,6 @@ and you done! if you have problems then type into terminal: pip install pygame.
 to start reed this
 open terminal by RMB button
 after press open in terminal
-type: python GS.py
+type: python FireSeed.py
 and you done with starting! if you have promblems try ReReed it and look on stroke 10 to see what to do if you have problems
-and you too need to Delete and install it into folder of of GS.py and you done with update
+and you too need to Delete and install it into folder of of FireSeed.py and you done with update
