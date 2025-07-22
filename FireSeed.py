@@ -57,6 +57,22 @@ START_PAGE = """
         <a href="https://www.google.com">Google</a>
         <a href="https://www.youtube.com">YouTube</a>
         <a href="https://github.com">GitHub</a>
+        <a href="https://www.appleworm.io">AppleWorm</a>
+        <a href="https://play.google.com">GooglePlay</a>
+        <a href="https://www.microsoft.com">Microsoft</a>
+        <a href="https://www.apple.com">Apple</a>
+        <a href="https://www.amazon.com">Amazon</a>
+        <a href="https://www.facebook.com">Facebook</a>
+        <a href="https://www.twitter.com">Twitter</a>
+        <a href="https://www.instagram.com">Instagram</a>
+        <a href="https://www.reddit.com">Reddit</a>
+        <a href="https://www.wikipedia.org">Wikipedia</a>
+        <a href="https://www.firefox.com">FireFox</a>
+        <a href="https://www.opera.com">Opera</a>
+        <a href="https://www.microsoft.com/edge">Edge</a>
+        <a href="https://www.brave.com">Brave</a>
+        <a href="https://github.com/Scripter456/FireSeed">FireSeedOfficial</a>
+
     </p>
 </body>
 </html>
